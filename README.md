@@ -51,7 +51,7 @@ arr.map(function(i){
     console.log(i)
 })
 ```
-###Higher Order Functions (HDF)
+### Higher Order Functions (HDF)
 *A function that accepts another functions as an argument.*
 
 ```javascript
