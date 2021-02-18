@@ -21,7 +21,7 @@ function addition(a,b){
 }
 
 addition(1,2)
-3
+
 ```
 
 Function with no name/ anonymous function
